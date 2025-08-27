@@ -287,7 +287,7 @@ div:last-child>.theia-ChatNode {
   height: auto;
   border: var(--theia-border-width) solid var(--theia-dropdown-border);
   border-radius: 4px 4px 0 0;
-  background-color: var(--theia-activityBar-background);
+  background-color: var(--theia-sideBar-background);
   display: flex;
   flex-direction: column;
 }
